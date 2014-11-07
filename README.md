@@ -1,4 +1,4 @@
-phphbase
+PHP-Hbase
 ========
 
 PHP的Hbase简单操作类，通过Thrift访问。
